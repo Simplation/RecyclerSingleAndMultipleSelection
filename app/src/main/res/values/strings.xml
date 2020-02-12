@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler-Single-Multiple-Selection</string>
+    <string name="single_selection">RecyclerView Single Selection</string>
+    <string name="multiple_selection">RecyclerView Multiple Selection</string>
+</resources>
