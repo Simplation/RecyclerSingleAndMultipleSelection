@@ -1,4 +1,4 @@
-package com.sunnyit.recycler_single_multiple_selection.adapter
+package com.simplation.recycler_selection.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,11 +7,11 @@ import android.view.ViewGroup
 import android.widget.CheckBox
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.sunnyit.recycler_single_multiple_selection.R
+import com.simplation.recycler_selection.R
 
 
 /**
- * @作者: Simplation.WANG
+ * @作者: Simplation
  * @日期: 2020/1/16
  * @描述:
  * @更新:

@@ -1,4 +1,4 @@
-package com.sunnyit.recycler_single_multiple_selection
+package com.simplation.recycler_selection
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

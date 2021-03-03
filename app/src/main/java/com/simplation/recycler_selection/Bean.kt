@@ -1,7 +1,7 @@
-package com.sunnyit.recycler_single_multiple_selection
+package com.simplation.recycler_selection
 
 /**
- * Author: Simplation.WANG
+ * Author: Simplation
  * Date: 2020/02/12 11:27
  * Description:
  */

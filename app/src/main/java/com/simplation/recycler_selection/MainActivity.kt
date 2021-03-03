@@ -1,13 +1,18 @@
-package com.sunnyit.recycler_single_multiple_selection
+package com.simplation.recycler_selection
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.sunnyit.recycler_single_multiple_selection.activity.MultipleSelectionActivity
-import com.sunnyit.recycler_single_multiple_selection.activity.SingleSelectionActivity
+import com.simplation.recycler_selection.activity.MultipleSelectionActivity
+import com.simplation.recycler_selection.activity.SingleSelectionActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
+/**
+ * Author: Simplation
+ * Date: 2021/03/03 09:48
+ * Description:
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

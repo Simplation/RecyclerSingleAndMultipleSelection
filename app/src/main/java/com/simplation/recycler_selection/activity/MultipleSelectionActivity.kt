@@ -1,16 +1,16 @@
-package com.sunnyit.recycler_single_multiple_selection.activity
+package com.simplation.recycler_selection.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.sunnyit.recycler_single_multiple_selection.Bean
-import com.sunnyit.recycler_single_multiple_selection.R
-import com.sunnyit.recycler_single_multiple_selection.adapter.MultipleAdapter
+import com.simplation.recycler_selection.Bean
+import com.simplation.recycler_selection.R
+import com.simplation.recycler_selection.adapter.MultipleAdapter
 import kotlinx.android.synthetic.main.activity_multiple_selection.*
 
 
 /**
- * @作者: Simplation.WANG
+ * @作者: Simplation
  * @日期: 2020/1/16
  * @描述: 多选
  * @更新:
