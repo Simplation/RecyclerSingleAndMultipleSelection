@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to RecyclerSingleAndMultipleSelection 👋</h1>
 
-Realize the single-select and multi-select functions of RecyclerView
+Realize the single-select and multi-select functions of RecyclerView.
 
 该 Demo 使用 Kotlin 实现 RecyclerView 的单选和多选功能，有需要的小伙伴可以作为参考。
 
