@@ -8,9 +8,9 @@ Realize the single-select and multi-select functions of RecyclerView.
 
 ## Category
 
-- [SingleSelection](https://github.com/Simplation/RecyclerSingleAndMultipleSelection/blob/master/app/src/main/java/com/sunnyit/recycler_single_multiple_selection/activity/SingleSelectionActivity.kt)
+- [SingleSelection](https://github.com/Simplation/RecyclerSingleAndMultipleSelection/blob/master/app/src/main/java/com/simplation/recycler_selection/activity/SingleSelectionActivity.kt)
 
-- [MutipleSelection](https://github.com/Simplation/RecyclerSingleAndMultipleSelection/blob/master/app/src/main/java/com/sunnyit/recycler_single_multiple_selection/activity/MultipleSelectionActivity.kt)
+- [MutipleSelection](https://github.com/Simplation/RecyclerSingleAndMultipleSelection/blob/master/app/src/main/java/com/simplation/recycler_selection/activity/MultipleSelectionActivity.kt)
 
 
 ## About
